@@ -29,13 +29,12 @@
    
        
 <p align="justify"><h2><font color="#6600CC">Datos Academicos</font></h2></p>
+    PRIMARIA: Centro Basico General Republica Dominicana<br>
+    BACHILLERATO: Escuela Secundaria Angel Maria Herrera<br>
+    Bachiller: Ciencias<br>
+    MEDIA: Escuela Secundaria Angel Maria Herrera<br>
+    UNIVERSIDAD: Universidad de Panama<br>
+    Carrera:Licenciatura en Quimica<br>
+    </p>
 
-    PRIMARIA        :        Centro Basico General Republica Dominicana<br>
-    BACHILLERATO    :        Escuela Secundaria Angel Maria Herrera<br>
-    Bachiller       :        Ciencias<br>
-    MEDIA            :        Escuela Secundaria Angel Maria Herrera<br>
-    UNIVERSIDAD        :        Universidad de Panama<br>
-    Carrera           :       Licenciatura en Quimica<br>
-    Nivel de ingles   :    Basico<br>
-    </body>
-    </html>
+   
