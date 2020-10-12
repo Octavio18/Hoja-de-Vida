@@ -3,7 +3,7 @@
 <html>
 
 <head>
-<title> Hoja De Vida</title>
+
 </head><br>
 
 
@@ -25,7 +25,7 @@
     EDAD            :        18<br>
     DIRECCION        :        Barriada Bella Brisas Anton.<br>
     E-MAIL            :        octa1829056@gmail.com<br>
-    </p>
+  
    
        
 <p align="justify"><h2><font color="#6600CC">Datos Academicos</font></h2></p>
@@ -35,6 +35,6 @@
     MEDIA: Escuela Secundaria Angel Maria Herrera<br>
     UNIVERSIDAD: Universidad de Panama<br>
     Carrera:Licenciatura en Quimica<br>
-    </p>
+    Nivel de Ingles: Basico<br>
 
    
